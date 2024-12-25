@@ -4,6 +4,7 @@
 // @version      0.1
 // @description  View member-only images on Xiuren
 // @author       Talented Bug
+// @homepage     https://github.com/talentedbug/bugsscript
 // @match        *://xiurenwang.top/*.html
 // @match        *://www.xiurenwang.cc/*.html
 // @match        *://w2.xiuren.ee/*.html
