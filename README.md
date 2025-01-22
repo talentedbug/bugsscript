@@ -4,7 +4,8 @@ This is a collection of user scripts written by the Bug.
 
 Currently the repository includes:
 
-- Xiuren Enhanced: View member-only images on Xiuren. (**NSFW**)
+- Xiuren Enhanced: View member-only images on Xiuren, by hitting "=" on the viewer page. (**NSFW**)
+- Auto Scroll: Does what you expect it to do by hitting "s".
 
 ## How to use them
 
