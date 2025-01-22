@@ -4,9 +4,11 @@
 // @version      0.2
 // @description  Scroll down the page automatically
 // @author       Talented Bug
-// @match        *://*/*
+// @match        *://linux.do/*
 // @grant        none
 // ==/UserScript==
+
+// Remember to set site match to what you need, or you may start scrolling once hitting "s" :)
 
 (function() {
     'use strict';
